@@ -1,4 +1,3 @@
-<h1 align="center"> CALCULADORA </h1>
+<h1 align="center"> CALCULADORA CIENTÍFICA</h1>
 
-## testando
-
+Este projeto é uma calculadora científica na linguagem C que suporta 31 operações matemáticas diferentes. O usuário pode acessar o menu interativo para escolher a operação desejada.
